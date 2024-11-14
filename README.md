@@ -3,9 +3,10 @@
 
  <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=DEF72C&random=false&center=true&width=1000&lines=%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%AA%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BF%2C+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%B8%E0%A5%83%E0%A4%A3%E0%A5%8B%E0%A4%A4%E0%A4%BF%2C+%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A5%8D+%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%BF%E0%A5%A4%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%B5+%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D+%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%83+%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A4%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%82+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D+%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A5%A4" lt="sloka" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=DEF72C&center=true&width=1000&lines=%E0%A4%AF%E0%A4%A6%E0%A4%BE+%E0%A4%AF%E0%A4%A6%E0%A4%BE+%E0%A4%B9%E0%A4%BF+%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AF+%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AD%E0%A4%B5%E0%A4%A4%E0%A4%BF+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%83%2C+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D+%E0%A4%85%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AF+%E0%A4%A4%E0%A4%A6%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%82+%E0%A4%B8%E0%A5%83%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%B9%E0%A4%AE%E0%A5%8D%E0%A5%A4" alt="sanskrit-sloka" />
 
-![English Sloka](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0000FF&random=false&center=true&width=2300&lines=Where+one+sees+othing+else,+hears+nothing+else,+understands+nothing+else,+that+is+where+the+truth+is,+that+is+where+the+essence+of+software+development+is+to+be+understood+in+its+entirety.)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0000FF&center=true&width=1500&lines=Whenever+there+is+a+decline+in+righteousness+and+an+increase+in+unrighteousness%2C+I+manifest+myself+on+earth." alt="english-translation" />
+
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
