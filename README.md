@@ -10,21 +10,16 @@
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
 
-- 🔭 I’m currently working on [CodeHarborHub](https://codeharborhub.github.io/) and [Algo](https://NiranjanKumar001.github.io/algo). And 📃 I regularly write articles & Tutorials on [codeharborhub](https://codeharborhub.github.io/)
 
 - 👨‍💻 All of my projects are available at [My portfolio Website](https://NiranjanKumar001.github.io/).
 
-- 🚀 **Exploring New Technologies**: Constantly diving into the latest advancements in **AI, Web Development, and Software Engineering** to stay ahead in the tech industry.
+- 🚀 **Exploring New Technologies**: Constantly diving into the latest advancements in **Arduino IDE,MatLab,Sue2,CppSims** to stay ahead in the electronics industry.
 
 - 🔧 **Working on Side Projects**: Actively developing side projects in **JavaScript, React, and MERN stack** to improve coding skills and problem-solving abilities.
 
 - 🌐 **Building Open-Source Projects**: Contributing to the open-source community with projects available on [GitHub](https://github.com/NiranjanKumar001) and encouraging collaboration.
 
-- 🎥 **Creating Educational Content**: Producing tutorials, guides, and coding challenges on **YouTube** and sharing coding tips on **Twitter**.
-
 - 📚 **Reading Tech Books & Blogs**: Continuously learning through tech books, blogs, and courses related to **Data Structures, Algorithms, and Full-Stack Development**.
-
-- 🛠️ **Mentoring & Coaching**: Providing mentorship for beginners in **JavaScript, React, and open-source contributions**, and sharing learning resources.
 
 - 🌍 **Participating in Hackathons**: Engaging in coding competitions and hackathons to sharpen skills and build innovative solutions.
 
