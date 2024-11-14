@@ -55,7 +55,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/NiranjanKumar001/tNiranjanKumar001r/output/github-snake.svg" />
 </picture>
 
- 
+<img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 ## Profile Status:
 
 ![](https://github-readme-stats.vercel.app/api?username=NiranjanKumar001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
