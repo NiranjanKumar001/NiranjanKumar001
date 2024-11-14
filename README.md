@@ -47,6 +47,14 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=NiranjanKumar001&column=10&theme=matrix)
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
+
+## Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiranjanKumar001r/NiranjanKumar001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NiranjanKumar001/tNiranjanKumar001r/output/github-snake.svg" />
+</picture>
+
  
 ## Profile Status:
 
