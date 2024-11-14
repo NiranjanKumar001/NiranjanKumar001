@@ -30,6 +30,8 @@
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
+## Hacktober Fest @2024
+
 [![An image of @niranjankumar001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niranjankumar001)](https://holopin.io/@niranjankumar001)
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
@@ -58,7 +60,7 @@
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiranjanKumar001&theme=github_dark)
 
 
-[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NiranjanKumar001&theme=merko)](https://github.com/NiranjanKumar001)
+[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NiranjanKumar001&theme=merko)](https://github.com/NiranjanKumar001)
 
 <div align="center">
     <picture>
