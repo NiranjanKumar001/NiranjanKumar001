@@ -3,9 +3,11 @@
 
  <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=DEF72C&center=true&width=1000&lines=%E0%A4%AF%E0%A4%A6%E0%A4%BE+%E0%A4%AF%E0%A4%A6%E0%A4%BE+%E0%A4%B9%E0%A4%BF+%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AF+%E0%A4%97%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AD%E0%A4%B5%E0%A4%A4%E0%A4%BF+%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%83%2C+%E0%A4%85%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D+%E0%A4%85%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%AF+%E0%A4%A4%E0%A4%A6%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%82+%E0%A4%B8%E0%A5%83%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%B9%E0%A4%AE%E0%A5%8D%E0%A5%A4" alt="sanskrit-sloka" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=DEF72C&center=true&width=1000&lines=%E0%A4%95%E0%A4%B0%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A5%8D+%E0%A4%A4%E0%A5%87+%E0%A4%AE%E0%A4%BE+%E0%A4%AB%E0%A4%B2%E0%A5%87%E0%A4%B7%E0%A5%81+%E0%A4%95%E0%A4%A6%E0%A4%BE%E0%A4%9A%E0%A4%A8%E0%A4%83%E0%A5%A4%2C+%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%AB%E0%A4%B2%E0%A4%B9%E0%A5%87%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D+%E0%A4%AD%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%A4%E0%A5%87+%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%BF%E0%A5%A4" alt="sanskrit-sloka" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0000FF&center=true&width=1500&lines=Whenever+there+is+a+decline+in+righteousness+and+an+increase+in+unrighteousness%2C+I+manifest+myself+on+earth." alt="english-translation" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&pause=1000&color=0000FF&center=true&width=1400&lines=You+have+the+right+to+perform+your+duties%2C+but+not+to+the+fruits+of+your+actions.%2C+Do+not+let+the+results+of+your+actions+be+your+motive%2C+nor+be+attached+to+inaction." alt="english-translation" />
+
 
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
