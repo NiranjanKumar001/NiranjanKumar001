@@ -40,7 +40,7 @@
 
 ## Skills & Tech
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,react,vue,nextjs,tailwindcss,express,nodejs,mongodb,npm,powershell,redux,styledcomponents,vscode,windows,yarn,vite,babel,bash,git,github,bootstrap,c,eclipse,java,figma,firebase,githubactions,gitlab,gmail,kali,linux,md,materialui,docker,netlify,vercel,postman,notion,blender,threejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,react,nextjs,tailwindcss,express,nodejs,mongodb,npm,powershell,redux,styledcomponents,vscode,windows,yarn,vite,bash,git,github,bootstrap,c,java,figma,firebase,githubactions,gitlab,gmail,kali,linux,md,materialui,docker,netlify,vercel,postman,notion,blender,threejs" />
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
