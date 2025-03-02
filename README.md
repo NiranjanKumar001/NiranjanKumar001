@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/user/d64bfdc9-858d-40b1-b5bd-a532ae61296e.svg)](https://wakatime.com/@d64bfdc9-858d-40b1-b5bd-a532ae61296e)
 
 
  <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
