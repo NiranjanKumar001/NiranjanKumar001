@@ -35,7 +35,7 @@
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
-## Hacktober Fest @2024
+## Digital Badges 
 
 [![An image of @niranjankumar001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niranjankumar001)](https://holopin.io/@niranjankumar001)
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
