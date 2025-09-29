@@ -15,10 +15,8 @@
 
 
 
-- 👨‍💻 My Latest project [Website](https://cre-avant.vercel.app/).
+- 👨‍💻 My Latest project [Website](https://www.profocto.tech/).
   
-- ⌛ First Iphone 16 Pro Site Clone [Website](https://i-phone-16-pro.vercel.app/).
-
 - 🚀 **Exploring New Technologies**: Constantly diving into the latest advancements in **Arduino IDE,MatLab,Sue2,CppSims** to stay ahead in the electronics industry.
 
 - 🔧 **Working on Side Projects**: Actively developing side projects in **JavaScript, React, and MERN stack** to improve coding skills and problem-solving abilities.
