@@ -47,7 +47,7 @@
 
 ## GitHub Profile Trophy
 
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=NiranjanKumar001&theme=matrix&column=11'>
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=NiranjanKumar001&theme=dracula&column=11'>
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
