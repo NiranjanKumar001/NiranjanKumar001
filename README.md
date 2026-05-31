@@ -19,7 +19,7 @@
   
 - 👨‍💻 Portfolio [Website](https://niranjankumar.tech/).
   
-- 🚀 **Exploring New Technologies**: Constantly diving into the latest advancements in **Arduino IDE,MatLab,Sue2,CppSims** to stay ahead in the electronics industry.
+- 🚀 **Building Database from Scratch**: Constantly diving into the latest technology.
 
 - 🔧 **Working on Side Projects**: Actively developing side projects in **JavaScript, React, and MERN stack** to improve coding skills and problem-solving abilities.
 
