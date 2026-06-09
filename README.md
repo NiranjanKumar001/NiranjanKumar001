@@ -65,8 +65,6 @@
 ## Profile Status:
 
 ![](https://github-readme-stats.vercel.app/api?username=NiranjanKumar001&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-![contribute](https://github-contributor-stats.vercel.app/api?username=NiranjanKumar001&limit=7&contributions=true&hide=B%2B&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanKumar001&langs_count=20&theme=transparent&layout=compact)
     
 
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiranjanKumar001&theme=github_dark)
