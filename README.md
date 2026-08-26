@@ -15,8 +15,6 @@
 
 - 👨‍💻 My Latest project [Website](https://www.profocto.tech/).
   
-- 👨‍💻 Portfolio [Website](https://niranjankumar.tech/).
-  
 - 🚀 **Building Database from Scratch**: Constantly diving into the latest technology.
 
 - 🔧 **Working on Side Projects**: Actively developing side projects in **JavaScript, React, and MERN stack** to improve coding skills and problem-solving abilities.
