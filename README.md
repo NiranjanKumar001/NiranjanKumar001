@@ -11,7 +11,7 @@
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
-- 🚀 **Currently Building:** [MLazy](https://app.notion.com/p/ER-DIAGRAM-3c87894509c780dc83c9c3b88ae7cb0e?source=copy_link) — a CLI · HTTP API · MCP platform for automating Google Flow through a shared browser session.
+- 🚀 **Currently Building:** [MLazy](https://app.notion.com/p/MLazy-Automation-Tool-for-Social-Media-3c87894509c780ed81a7d9e037fe1ef9?source=copy_link) — a CLI · HTTP API · MCP platform for automating Google Flow through a shared browser session.
 
 - 👨‍💻 My Latest project [Website](https://www.profocto.tech/).
 
