@@ -15,11 +15,7 @@
 
 - 👨‍💻 My Latest project [Website](https://www.profocto.tech/).
 
-- 🔧 **Working on Side Projects**: Actively developing side projects in **JavaScript, React, and MERN stack** to improve coding skills and problem-solving abilities.
-
 - 🌐 **Building Open-Source Projects**: Contributing to the open-source community with projects available on [GitHub](https://github.com/NiranjanKumar001) and encouraging collaboration.
-
-- 📚 **Reading Tech Books & Blogs**: Continuously learning through tech books, blogs, and courses related to **Data Structures, Algorithms, and Full-Stack Development**.
 
 - 🌍 **Participating in Hackathons**: Engaging in coding competitions and hackathons to sharpen skills and build innovative solutions.
 
