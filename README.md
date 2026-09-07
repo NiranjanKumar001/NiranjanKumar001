@@ -58,9 +58,9 @@
 
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/NiranjanKumar001?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/NiranjanKumar001?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-      <img alt="3D Contribution Graph" src="https://ssr-contributions-svg.vercel.app/_/NiranjanKumar001?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=rainbow" >
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/main/profile-3d-contrib/profile-night-rainbow.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/main/profile-3d-contrib/profile-season-animate.svg">
+      <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/main/profile-3d-contrib/profile-green-animate.svg" width="100%">
     </picture>
 </div>
 
