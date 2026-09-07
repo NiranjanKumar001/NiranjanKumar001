@@ -46,8 +46,8 @@
 ## Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiranjanKumar001r/NiranjanKumar001/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NiranjanKumar001/tNiranjanKumar001r/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/output/github-snake.svg" />
 </picture>
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
@@ -56,13 +56,11 @@
 ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiranjanKumar001&theme=github_dark)
 
 
-[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NiranjanKumar001&theme=merko)](https://github.com/NiranjanKumar001)
-
 <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/NiranjanKumar001?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
       <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/NiranjanKumar001?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-      <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/NiranjanKumar001?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)" >
+      <img alt="3D Contribution Graph" src="https://ssr-contributions-svg.vercel.app/_/NiranjanKumar001?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=rainbow" >
     </picture>
 </div>
 
