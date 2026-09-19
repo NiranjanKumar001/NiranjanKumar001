@@ -17,6 +17,8 @@
 
 - 🌐 **Building Open-Source Projects**: Contributing to the open-source community with projects available on [GitHub](https://github.com/NiranjanKumar001) and encouraging collaboration.
 
+- 🌐 **Open Source Contributor**: Recently contributing to [HFlow](https://github.com/Hebbian-Robotics/hflow) by Hebbian Robotics and [OpenSRE](https://github.com/Tracer-Cloud/opensre), working with real-world robotics/Physical AI and AI SRE codebases.
+
 - 🌍 **Participating in Hackathons**: Engaging in coding competitions and hackathons to sharpen skills and build innovative solutions.
 
 - 🏆 **Open to Freelance Opportunities**: Available for freelance work in **Web Development, React projects, and Full-Stack Development**.
