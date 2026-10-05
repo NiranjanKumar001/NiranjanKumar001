@@ -13,7 +13,7 @@
 
 - 🚀 **Currently Building:** [MLazy](https://app.notion.com/p/MLazy-Automation-Tool-for-Social-Media-3c87894509c780ed81a7d9e037fe1ef9?source=copy_link) — a CLI · HTTP API · MCP platform for automating Google Flow through a shared browser session.
 
-- 👨‍💻 My Latest project [Website](https://www.profocto.tech/).
+- 👨‍💻 My Latest project [Website](https://profile-elegante.vercel.app/).
 
 - 🌐 **Building Open-Source Projects**: Contributing to the open-source community with projects available on [GitHub](https://github.com/NiranjanKumar001) and encouraging collaboration.
 
