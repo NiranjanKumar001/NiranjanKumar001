@@ -39,7 +39,7 @@
 
 <img width="100%" loading="lazy" src="rainbow-superthin.webp" />
 
-## GitHub Profile Trophy
+## GitHub Profile Trophies
 
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=NiranjanKumar001&theme=dracula&column=11'>
 
